@@ -166,7 +166,7 @@ a {
    }
    .links.open li {
     display: block;
-    margin: 15px;
+    margin: 9px;
     }
     .links.open li a {
  color: var(--main--color);  
